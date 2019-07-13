@@ -289,6 +289,10 @@ font-family: 'Conv_Cera GR';    font-size: 15px;
     padding-left: 28px;
     padding-bottom: 45px;
 }
+.footer-section .email a
+{
+	padding-left:0px;
+}
 .no-pad {
     padding: 0px;
 }

@@ -191,8 +191,8 @@ button:focus,
 
 @media (max-width : 600px) {
     .left-col-block {
-        width    : 100%;
-        position : relative;
+        width    : 100% !important;
+        position : relative !important;
         }
 
     .right-col-block {
